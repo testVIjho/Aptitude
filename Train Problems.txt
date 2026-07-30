@@ -1,0 +1,381 @@
+🚆 Train Problems – Practice Questions with Answers & Explanation (Tanglish)
+Formula First
+Time = Distance ÷ Speed
+Speed (m/s) = Speed (km/hr) × 5/18
+Pole / Tree / Man → Distance = Train Length
+Platform / Bridge → Distance = Train Length + Platform Length
+Same Direction → Relative Speed = Difference of Speeds
+Opposite Direction → Relative Speed = Sum of Speeds
+1. Train Crosses a Pole
+Q1
+
+A train of length 120 m is moving at 36 km/hr. How much time will it take to cross a pole?
+
+Explanation
+
+Pole-ku length illa.
+
+Distance = Train Length = 120 m
+
+Speed = 36 × 5/18 = 10 m/s
+
+Time = 120 ÷ 10 = 12 sec
+
+✅ Answer = 12 seconds
+
+2. Train Crosses a Pole
+Q2
+
+A train of length 180 m is moving at 72 km/hr. How much time will it take to cross a standing man?
+
+Explanation
+
+Distance = 180 m
+
+Speed = 72 × 5/18 = 20 m/s
+
+Time = 180 ÷ 20 = 9 sec
+
+✅ Answer = 9 seconds
+
+3. Train Crosses a Platform
+Q3
+
+A train of length 150 m crosses a platform of 250 m at 72 km/hr. Find the time taken.
+
+Explanation
+
+Distance = Train + Platform
+
+= 150 + 250
+
+= 400 m
+
+Speed = 72 × 5/18 = 20 m/s
+
+Time = 400 ÷ 20 = 20 sec
+
+✅ Answer = 20 seconds
+
+4. Train Crosses a Bridge
+Q4
+
+A train of length 200 m crosses a bridge of 300 m at 54 km/hr.
+
+Explanation
+
+Distance = 200 + 300
+
+= 500 m
+
+Speed = 54 × 5/18 = 15 m/s
+
+Time = 500 ÷ 15
+
+= 33.33 sec
+
+✅ Answer = 33⅓ seconds
+
+5. Find the Speed
+Q5
+
+A train of length 180 m crosses a pole in 12 sec. Find its speed.
+
+Explanation
+
+Distance = 180 m
+
+Speed = Distance ÷ Time
+
+= 180 ÷ 12
+
+= 15 m/s
+
+Convert to km/hr
+
+15 × 18/5
+
+= 54 km/hr
+
+✅ Answer = 54 km/hr
+
+6. Two Trains – Same Direction
+Q6
+
+Train A = 150 m, Speed = 60 km/hr
+
+Train B = 100 m, Speed = 42 km/hr
+
+Both move in the same direction.
+
+Find the time taken to cross each other.
+
+Explanation
+
+Distance = 150 + 100
+
+= 250 m
+
+Relative Speed
+
+= 60 − 42
+
+= 18 km/hr
+
+18 km/hr = 5 m/s
+
+Time = 250 ÷ 5
+
+= 50 sec
+
+✅ Answer = 50 seconds
+
+7. Two Trains – Opposite Direction
+Q7
+
+Train A = 120 m, Speed = 54 km/hr
+
+Train B = 180 m, Speed = 36 km/hr
+
+They move in opposite directions.
+
+Find the crossing time.
+
+Explanation
+
+Distance = 120 + 180
+
+= 300 m
+
+Relative Speed
+
+= 54 + 36
+
+= 90 km/hr
+
+90 × 5/18
+
+= 25 m/s
+
+Time = 300 ÷ 25
+
+= 12 sec
+
+✅ Answer = 12 seconds
+
+8. Platform Problem
+Q8
+
+A train of length 250 m crosses a platform of 150 m in 20 sec.
+
+Find the speed.
+
+Explanation
+
+Distance = 250 + 150
+
+= 400 m
+
+Speed = 400 ÷ 20
+
+= 20 m/s
+
+Convert to km/hr
+
+20 × 18/5
+
+= 72 km/hr
+
+✅ Answer = 72 km/hr
+
+🧠 Important Shortcuts
+Question Type	Distance Formula
+Pole / Tree / Standing Man	Train Length
+Platform / Bridge	Train Length + Platform Length
+Same Direction	Total Length ÷ (Difference of Speeds)
+Opposite Direction	Total Length ÷ (Sum of Speeds)
+
+
+🚆 TRAIN PROBLEMS – EASY SHORTCUTS
+⭐ முதல்ல இந்த 3 Formula மட்டும் தெரிஞ்சிருக்கணும்
+1️⃣ Basic Formula
+Speed=
+Time
+Distance
+	​
+
+2️⃣ Distance
+Distance=Speed×Time
+3️⃣ Time
+Time=
+Speed
+Distance
+	​
+
+⚠️ முக்கியமான Trick: km/hr → m/sec
+
+Train problems-ல இது ரொம்ப முக்கியம்.
+
+km/hr → m/sec
+×
+18
+5
+	​
+
+m/sec → km/hr
+×
+5
+18
+	​
+
+Shortcut நினைவில் வைக்க:
+
+km/hr → m/sec = × 5/18
+
+m/sec → km/hr = × 18/5
+
+🔥 TYPE 1: Train crosses a Pole / Man
+Question எப்படி இருக்கும்?
+
+A train of length 120 m is moving at 36 km/hr. How much time will it take to cross a pole?
+
+இங்கே Trick என்ன?
+
+Pole-க்கு length இல்லை.
+
+அதனால் train cover பண்ண வேண்டிய distance = Train length மட்டும்
+
+Distance=120m
+
+Speed:
+
+36×
+18
+5
+	​
+
+=10m/s
+
+Time:
+
+10
+120
+	​
+
+=12sec
+✅ Answer = 12 seconds
+🧠 Shortcut:
+
+Pole / Tree / Standing Man → Distance = Train Length
+
+🔥 TYPE 2: Train crosses a Platform
+Question:
+
+A train of length 150 m crosses a platform of length 250 m at 20 m/s. Find the time.
+
+இங்கே train முழுசாக platform-ஐ கடக்கணும்.
+
+அதனால்:
+
+Distance=TrainLength+PlatformLength
+=150+250=400m
+
+Time:
+
+20
+400
+	​
+
+=20sec
+🧠 Shortcut:
+
+Platform → Train Length + Platform Length
+
+🔥 TYPE 3: Two Trains moving in OPPOSITE directions
+
+Example:
+
+Train A speed = 40 km/hr
+Train B speed = 50 km/hr
+
+இரண்டும் opposite direction-ல வருது.
+
+Shortcut:
+RelativeSpeed=40+50
+=90km/hr
+🧠 Rule:
+
+🚆 → ← 🚆
+Opposite Direction → Speeds ADD
+
+🔥 TYPE 4: Two Trains moving in SAME direction
+
+Train A = 60 km/hr
+Train B = 40 km/hr
+
+இரண்டும் same direction.
+
+Shortcut:
+RelativeSpeed=60−40
+=20km/hr
+🧠 Rule:
+
+🚆 → 🚆 →
+Same Direction → Speeds SUBTRACT
+
+🔥 TYPE 5: Train crosses another Train
+
+இது ரொம்ப important. 🔥
+
+Opposite Direction
+
+Train A length = 100 m
+Train B length = 150 m
+
+Distance covered:
+
+100+150=250m
+
+Speed:
+
+Speed
+A
+	​
+
++Speed
+B
+	​
+
+
+அதாவது:
+
+Two trains cross each other → Lengths ADD
+
+Opposite direction → Speeds ADD
+
+Same Direction
+
+Train A length = 100 m
+Train B length = 150 m
+
+Distance:
+
+100+150=250m
+
+Speed:
+
+Fast−Speed−Slow−Speed
+
+Same direction → Speeds SUBTRACT
+
+⭐ SUPER IMPORTANT TABLE
+Question-ல என்ன சொல்றாங்க?	Distance	Relative Speed
+Train + Pole	Train Length	Train Speed
+Train + Tree	Train Length	Train Speed
+Train + Standing Man	Train Length	Train Speed
+Train + Platform	Train + Platform Length	Train Speed
+Two Trains – Opposite	Train A + Train B	Speed A + Speed B
+Two Trains – Same Direction	Train A + Train B	Faster − Slower
+
+
+

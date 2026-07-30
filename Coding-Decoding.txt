@@ -1,0 +1,628 @@
+Sure 👍 Coding-Decoding aptitude topic-ai TNPSC / RRB exam level-ku deep-aa, step-by-step Tanglish-la explain panren.
+
+🔐 Coding-Decoding — Deep Explanation
+1️⃣ Coding-Decoding na enna?
+
+Oru word / number / sentence-ai oru secret rule use panni maathuvanga.
+
+Example:
+CAT → DBU
+
+Inga:
+
+Original	C	A	T
+Code	D	B	U
+
+Every letter-um +1 shift aagirukku.
+
+C → D
+A → B
+T → U
+
+So:
+
+DOG → EPH
+
+Because:
+
+D → E
+O → P
+G → H
+
+👉 Coding-Decoding question-oda main goal:
+
+Given example-la irukkura hidden pattern/rule-ai identify panni, new word-ku code find panradhu.
+
+🧠 First Important Concept: Alphabet Position
+
+Coding-Decoding-ku alphabet positions romba important.
+
+A = 1
+B = 2
+C = 3
+D = 4
+E = 5
+...
+Z = 26
+Full Alphabet Table
+Letter	Position	Letter	Position
+A	1	N	14
+B	2	O	15
+C	3	P	16
+D	4	Q	17
+E	5	R	18
+F	6	S	19
+G	7	T	20
+H	8	U	21
+I	9	V	22
+J	10	W	23
+K	11	X	24
+L	12	Y	25
+M	13	Z	26
+⭐ Super Important Shortcut
+Reverse Alphabet Values
+A ↔ Z
+B ↔ Y
+C ↔ X
+D ↔ W
+E ↔ V
+F ↔ U
+G ↔ T
+H ↔ S
+I ↔ R
+J ↔ Q
+K ↔ P
+L ↔ O
+M ↔ N
+Formula:
+Reverse Value = 27 - Original Position
+Example:
+C = 3
+Reverse = 27 - 3 = 24
+24 = X
+
+So:
+
+C → X
+🔥 Coding-Decoding Types
+
+Coding-Decoding-la generally 7 major types irukku:
+
+Letter Coding
+Number Coding
+Substitution Coding
+Mixed Coding
+Chinese Coding
+Conditional Coding
+Matrix / Symbol Coding
+
+Ippo each type-ai deep-aa paakalaam.
+
+1️⃣ Letter Coding
+
+Letters-oda position based on code create pannuvanga.
+
+Type 1: Simple +1 Coding
+Question:
+If CAT is coded as DBU, how is DOG coded?
+Analysis:
+C → D (+1)
+A → B (+1)
+T → U (+1)
+
+So:
+
+D → E
+O → P
+G → H
+Answer:
+DOG → EPH
+Type 2: +2 Coding
+CAT → ECV
+
+Check:
+
+C → E = +2
+A → C = +2
+T → V = +2
+
+So:
+
+DOG
+D + 2 = F
+O + 2 = Q
+G + 2 = I
+DOG → FQI
+Type 3: Different Shift Pattern
+
+Sometimes every letter same shift irukkathu.
+
+Example:
+CAT → DBW
+
+Compare:
+
+C → D = +1
+A → B = +1
+T → W = +3
+
+Ithu random madhiri theriyudhu.
+
+👉 So, one example mattum paathu rule decide panna koodathu.
+
+At least:
+
+Letter position
+Reverse position
+Order change
+Alternate pattern
+
+ellam check pannanum.
+
+2️⃣ Reverse Alphabet Coding
+Example:
+If A is coded as Z, B as Y, then CAT = ?
+
+Reverse mapping:
+
+C → X
+A → Z
+T → G
+
+Therefore:
+
+CAT → XZG
+Formula:
+A = 1 → 27 - 1 = 26 → Z
+C = 3 → 27 - 3 = 24 → X
+T = 20 → 27 - 20 = 7 → G
+3️⃣ Position-Based Number Coding
+
+Letters-ai numbers-aa convert pannuvanga.
+
+Example:
+CAT → 3 1 20
+
+Because:
+
+C = 3
+A = 1
+T = 20
+Question:
+If CAT = 3-1-20, then DOG = ?
+D = 4
+O = 15
+G = 7
+Answer:
+DOG = 4-15-7
+🔥 Letter Sum Coding
+Example:
+CAT → 24
+
+Because:
+
+C = 3
+A = 1
+T = 20
+
+3 + 1 + 20 = 24
+Question:
+DOG = ?
+D = 4
+O = 15
+G = 7
+4 + 15 + 7 = 26
+Answer:
+DOG = 26
+4️⃣ Product Coding
+
+Sometimes letters' positions multiply pannuvanga.
+
+Example:
+AB = ?
+A = 1
+B = 2
+
+1 × 2 = 2
+Example:
+CAT
+3 × 1 × 20 = 60
+5️⃣ Position Difference Coding
+Example:
+CAT
+
+Positions:
+
+C = 3
+A = 1
+T = 20
+
+Difference:
+
+20 - 3 - 1 = 16
+
+But exam question-la rule clearly derive panna vendum.
+
+6️⃣ Rearrangement Coding
+
+Sometimes letters shift aagathu. Order mattum change aagum.
+
+Example:
+CAT → TAC
+
+Original:
+
+C A T
+
+Reverse:
+
+T A C
+Another:
+CAT → ACT
+
+Positions:
+
+1 2 3 → 2 3 1
+
+Question:
+
+DOG → ?
+
+Same pattern:
+
+D O G
+↓ ↓ ↓
+O G D
+
+Answer:
+
+OGD
+7️⃣ Alternate Letter Coding
+
+Very important type 🔥
+
+Example:
+CAT → DZS
+
+Let's check:
+
+C → D = +1
+A → Z = -1
+T → S = -1
+
+Could be another rule.
+
+More common:
+
+First letter +1
+Second letter -1
+Third letter +1
+Example:
+CAT → DBU
+
+Maybe:
+
+C + 1 = D
+A + 1 = B
+T + 1 = U
+
+But sometimes:
+
+First +1
+Second -1
+Third +1
+
+Then:
+
+CAT → BZS
+
+Because:
+
+C → D? 
+
+Rule carefully identify pannanum.
+
+🔁 Alternate Position Pattern
+Example:
+A → B
+B → A
+C → D
+D → C
+E → F
+F → E
+
+Here:
+
+Odd-even pairs exchange
+
+So:
+
+A ↔ B
+C ↔ D
+E ↔ F
+G ↔ H
+Question:
+CAT → ?
+C → D
+A → B
+T → U
+CAT → DBU
+8️⃣ Chinese Coding / Artificial Language
+
+This is one of the most important exam types.
+
+Given:
+red blue green → ka la ma
+red yellow → ka pa
+blue yellow → la pa
+
+Find code for green.
+
+Step 1: Compare sentences
+
+First:
+
+red blue green → ka la ma
+
+Second:
+
+red yellow → ka pa
+
+Common word:
+
+red
+
+Common code:
+
+ka
+
+Therefore:
+
+red → ka
+
+Now:
+
+blue yellow → la pa
+
+Yellow already:
+
+yellow → pa
+
+Therefore:
+
+blue → la
+
+Then first sentence:
+
+red blue green → ka la ma
+
+Already:
+
+red → ka
+blue → la
+
+Remaining:
+
+green → ma
+Answer:
+green = ma
+🧠 Chinese Coding Main Trick
+Common Word = Common Code
+
+Example:
+
+I like mango → ka pa ra
+I like apple → ka pa sa
+
+Common words:
+
+I, like
+
+Common codes:
+
+ka, pa
+
+So:
+
+mango / apple = ra / sa
+
+But exact mapping identify panna additional sentence thevai.
+
+9️⃣ Conditional Coding
+
+Question-la condition kuduppanga.
+
+Example:
+If the first letter is a vowel, add 1.
+If the first letter is a consonant, subtract 1.
+
+Word:
+
+APPLE
+
+First letter:
+
+A = vowel
+
+So condition apply:
+
+A → B
+🔟 Symbol Coding
+
+Symbols represent letters or numbers.
+
+Example:
+A = @
+B = #
+C = $
+
+Then:
+
+CAB = $@#
+
+Simple-a irukkum.
+
+🧩 Coding-Decoding Solve Panna Correct Order
+
+Question paathavudane random-aa guess panna koodathu.
+
+Step 1: Word length check
+CAT → DBU
+
+Both 3 letters.
+
+But:
+
+CAT → 24
+
+Output number.
+
+So type identify pannunga.
+
+Step 2: Compare each letter
+C → D
+A → B
+T → U
+
+Check:
+
++1, +1, +1
+Step 3: Alphabet position convert pannunga
+
+Example:
+
+H → K
+
+Positions:
+
+8 → 11
+
+Difference:
+
++3
+Step 4: Reverse mapping check pannunga
+
+If:
+
+A → Z
+B → Y
+
+Then reverse alphabet rule.
+
+Step 5: Order change check pannunga
+
+Maybe:
+
+ABC → BCA
+
+No letter transformation, only rearrangement.
+
+🔥 Important Exam Shortcut
+Remember this pattern:
+Forward:
+A B C D E F G H I J K L M
+1 2 3 4 5 6 7 8 9 10 11 12 13
+Reverse:
+Z Y X W V U T S R Q P O N
+26 25 24 23 22 21 20 19 18 17 16 15 14
+Pair Sum:
+A + Z = 27
+B + Y = 27
+C + X = 27
+D + W = 27
+
+Every reverse pair total:
+
+27
+
+🔥 This is a super shortcut.
+
+🧪 Exam-Level Example
+Question:
+
+If:
+
+MANGO → NZOHQ
+
+Find code for:
+
+APPLE
+
+First identify rule:
+
+M → N = +1
+A → Z = -1
+N → O = +1
+G → H = +1
+O → Q = +2
+
+Pattern clear illa.
+
+👉 So one example mattum irundha direct rule guess panna dangerous.
+
+Exam-la usually:
+
+multiple examples
+clear pattern
+options
+
+irukkum.
+
+🧠 Most Important Strategy
+
+Coding-Decoding question solve panna:
+
+1. Letter → Letter-aa?
+2. Letter → Number-aa?
+3. Number → Letter-aa?
+4. Word order change-aa?
+5. Reverse alphabet-aa?
+6. + / - shift-aa?
+7. Common word-code-aa?
+8. Symbol replacement-aa?
+
+இந்த 8 questions mentally check pannunga.
+
+📌 TNPSC / RRB-la Frequently Asked Patterns
+🔥 Very Important:
+Alphabet position
+Reverse alphabet
++1, +2, +3 shifting
+-1, -2 shifting
+Alternate + and -
+Word reversal
+Letter rearrangement
+Alphabet sum
+Chinese coding
+Number-letter mixed coding
+🧠 One Golden Rule
+
+Coding-Decoding-la answer-a guess panna koodathu. First rule identify pannanum.
+
+Example:
+
+CAT → DBU
+
+Immediately:
+
+C + 1 = D
+A + 1 = B
+T + 1 = U
+
+So:
+
+DOG → EPH
+
+But difficult question-la:
+
+First compare
+↓
+Position convert
+↓
+Pattern find
+↓
+Rule verify
+↓
+Answer
+
+Ithu dhaan correct approach. 💯
